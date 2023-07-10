@@ -1,6 +1,5 @@
 # Pascal's Triangle
 
-### Straightforward solution
 
 ### Code
 
